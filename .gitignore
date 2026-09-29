@@ -1,0 +1,5 @@
+feeds*.json
+*.csv
+__pycache__/
+*.asv
+secrets.h
